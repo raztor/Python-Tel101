@@ -21,3 +21,4 @@ while inicio!='NO':
 else:
     print('Se subastaron '+str(totalsub)+' productos')
     print('Recaudación total: $ '+str(total))
+    #aaaa
