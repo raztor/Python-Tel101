@@ -29,10 +29,6 @@ while qtydistritos>numerodistrito:
             C=C+1
             Ctot=Ctot+1
 
-
-
-
-
 total=Atot+Btot+Ctot
 print()
 print('Resultados Votaciones')
@@ -54,7 +50,3 @@ elif Atot==Ctot: #empate A y C
     print('Empate: A y C')
 elif Btot==Ctot: #empate B y C
     print('Empate: B y C')
-
-
-
-
