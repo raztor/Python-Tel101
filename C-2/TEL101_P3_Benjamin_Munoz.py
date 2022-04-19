@@ -17,9 +17,12 @@ def nivel(lista):
 def disney(n1,l1,n2,l2):
     nivel1=nivel(l1)
     nivel2=nivel(l2)
-    if nivel1>nivel2:
-        return n1
-    elif nivel1<nivel2:
-        return n2
+    if nivel1==0 and nivel2==0:
+        return 'Nadie'
     else:
-        return 'Empate'
+        if nivel1>nivel2:
+            return n1
+        elif nivel1<nivel2:
+            return n2
+        else:
+            return n2
