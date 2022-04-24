@@ -1,11 +1,12 @@
 import random
+import math
 print("Bienvenid@s al GimnasIWI!")
-MC= int(input("Ingrese meta en calorias: "))
+mc= int(input("Ingrese meta en calorias: "))
 fin=0
 totalcal=0
 while fin==0:
-    if MC<totalcal:
-        print('************\nMeta cumplida! Quemaste', str(totalcal), 'de un total de', str(MC), 'calorias')
+    if mc<totalcal:
+        print('************\nMeta cumplida! Quemaste', str(totalcal), 'de un total de', str(mc), 'calorias')
         fin=1
 
     else:
@@ -53,3 +54,24 @@ while fin==0:
                 ejer = 1
             elif numeroejercicio==3:
                 repeticiones = int(input('¿Cuantas repeticiones?: '))
+                peso= int(input('¿Cuantos Kilos?'))
+                if repeticiones>=peso:
+                    y=1
+                    x=repeticiones
+                    subtot=repeticiones
+                    while y<peso:
+                        x=1+math.sqrt(x)
+                        subtot+=5
+                        y+=1
+                else:
+                    y=1
+                    x=peso
+                    subtot=peso
+                    while y<repeticiones:
+                        x=1+math.sqrt(x)
+                        subtot+=x
+                        y+=1
+                print('Calorias quemadas con press frances: ', round(subtot))
+                totalcal+=round(subtot)
+                print('Calorias hasta el momento: ', str(totalcal))
+                ejer = 1
