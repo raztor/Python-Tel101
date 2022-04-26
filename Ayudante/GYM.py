@@ -8,7 +8,6 @@ while fin==0:
     if mc<totalcal:
         print('************\nMeta cumplida! Quemaste', str(totalcal), 'de un total de', str(mc), 'calorias')
         fin=1
-
     else:
         repeticiones=0
         ejer=0
