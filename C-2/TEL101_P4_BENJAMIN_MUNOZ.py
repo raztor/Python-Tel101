@@ -12,9 +12,11 @@ def moneda(r1, r2, r3, apuesta):
     else:
         return 0
 fin=0
+total=0
 while fin == 0:
     inicio = str(input('Desea apostar?: '))
     if inicio == 'NO':
+        print('Monedas totales: ', str(total))
         fin = 1
     else:
         apuesta=int(input('Ingrese número al cual le apuesta: '))
@@ -24,3 +26,4 @@ while fin == 0:
         monedas=moneda(r1, r2, r3, apuesta)
         print(r1, r2, r3)
         print('Monedas: ', str(monedas))
+        total+=monedas
