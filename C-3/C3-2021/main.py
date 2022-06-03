@@ -27,5 +27,7 @@ def actores(archivo, genero):
                 for actor in actores:
                     nuevotxt.write(f'{actor}\n')
                 cant += 1
+                nuevotxt.close()
+    actarch.close()
     return cant
 print(actores("Top10.txt", "Crime"))
