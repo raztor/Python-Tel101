@@ -18,4 +18,4 @@ def rankear(nombre_archivo, rank_min, rank_max):
     biblio.close()
     return promedio
 
-print(rankear("animes.txt", 4, 6))
+print(rankear("animes.txt", 80, 103))
