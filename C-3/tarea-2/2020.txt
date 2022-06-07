@@ -1,0 +1,5 @@
+Alumnos reprobados el año 2020
+	Nash va a reprobar MAT
+	Fabiola Misa va a reprobar MAT
+	Luis Yagami va a reprobar IWG
+total de reprobados el año 2020: 3
