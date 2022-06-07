@@ -1,3 +1,3 @@
 # Tel-101 (Iniciación a la programación)
-Este repositorio contiene todas las actividades y tareas de Tel-101 semestre 1 año 2022.
-En un futuro elcodigo estara comentado y conexplicacionesde como hacer cada actividad.
+Este repositorio contiene material de estudio para TEL-101 o IWI.
+En un futuro el codigo estara comentado y con explicacionesde como hacer cada actividad.
