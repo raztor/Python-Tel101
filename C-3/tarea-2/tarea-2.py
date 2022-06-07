@@ -35,6 +35,7 @@ def alumnos(nombre_archivo):
         newtxt.write(f'Total de asignaturas reprobadas por {nombre}: {cantidad}')
         cantidadtot += 1
         newtxt.close()
+    txt.close()
     return cantidadtot
 
 print(reprobados("pag1.txt", 2020))
