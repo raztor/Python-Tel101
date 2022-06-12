@@ -31,5 +31,5 @@ def cancionero(nombre_archivo, artista):
     txt.close()
     return x
 
-#print(cancionero("canciones.txt", "Britney Spears"))
+#print(cancionero("canciones.txt", "Eminem"))
 #print(cancionero("canciones.txt", "Red Hot Chili Peppers"))
