@@ -12,3 +12,5 @@ contenidos:
 - 7. Tuplas y diccionarios
 
 En un futuro el codigo estara comentado y con explicacionesde como hacer cada actividad.
+
+###### Apuntes de Jupyter Notebook aportados por el Profesor Nicolás Torres
