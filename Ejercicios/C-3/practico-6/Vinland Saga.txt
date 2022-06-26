@@ -1,8 +1,0 @@
-#102 Vinland Saga (8.73)
-
-Estreno: TV, 2019
-Episodios: 24
-Géneros:
-	Action 
-	Adventure 
-	Drama 
