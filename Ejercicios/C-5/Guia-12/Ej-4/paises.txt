@@ -1,0 +1,981 @@
+1920,Japan,6365,East Asia
+1950,United States,21508,North America
+1943,China,4312,East Asia
+2002,Brazil,17524,Latin America
+2006,India,51338,South Asia
+1935,United States,16290,North America
+1990,Japan,50919,East Asia
+1942,Germany,3805,Europe
+1990,India,23326,South Asia
+1945,United Kingdom,8636,Europe
+2009,India,54565,South Asia
+1979,Brazil,20281,Latin America
+1983,China,9907,East Asia
+1957,Japan,24319,East Asia
+1940,Russia,3919,Europe
+1991,United States,27231,North America
+1971,Mexico,9460,Latin America
+1960,China,6820,East Asia
+1934,Argentina,3378,Latin America
+1931,Japan,10102,East Asia
+1911,Russia,1658,Europe
+2014,Japan,57857,East Asia
+1981,China,9430,East Asia
+1947,United States,20425,North America
+1964,Russia,6532,Europe
+1988,China,11099,East Asia
+1981,Mexico,13278,Latin America
+1979,Argentina,9287,Latin America
+1997,Argentina,11797,Latin America
+2005,China,29576,East Asia
+1951,Argentina,5238,Latin America
+1916,Japan,5441,East Asia
+1918,Germany,3687,Europe
+1934,France,5334,Europe
+1965,United Kingdom,7869,Europe
+1920,United Kingdom,9263,Europe
+1957,Russia,5917,Europe
+1969,Russia,7009,Europe
+1956,Argentina,5959,Latin America
+1929,Japan,9241,East Asia
+1956,France,6919,Europe
+1956,Russia,5833,Europe
+1976,Brazil,18506,Latin America
+1964,Mexico,6671,Latin America
+1940,United States,17898,North America
+2015,Egypt,18772,Middle East
+1998,Japan,52877,East Asia
+1953,Mexico,3922,Latin America
+2011,Japan,56708,East Asia
+1904,United Kingdom,9550,Europe
+2003,China,15641,East Asia
+1936,Russia,3344,Europe
+1957,United Kingdom,8245,Europe
+1955,Russia,5749,Europe
+1983,United States,25650,North America
+2006,Mexico,19447,Latin America
+2015,Bangladesh,17598,South Asia
+1944,Japan,15697,East Asia
+1905,Germany,2990,Europe
+1921,Japan,6595,East Asia
+1937,Russia,3488,Europe
+1994,Argentina,11215,Latin America
+1982,United States,25471,North America
+1901,Austria,1705,Europe
+1979,Japan,45044,East Asia
+2008,Egypt,16209,Middle East
+1940,China,3844,East Asia
+1984,Japan,47425,East Asia
+1912,Germany,3387,Europe
+1921,Austria,1838,Europe
+2012,Japan,57091,East Asia
+1948,China,5094,East Asia
+1997,India,41248,South Asia
+1928,United States,16141,North America
+2004,Japan,54130,East Asia
+1920,France,4436,Europe
+1913,United States,10630,North America
+1906,United States,8878,North America
+1932,United Kingdom,8055,Europe
+2004,Brazil,18033,Latin America
+2011,Pakistan,14588,South Asia
+1954,United States,23452,North America
+1970,United States,33549,North America
+1992,China,12052,East Asia
+1958,India,5413,South Asia
+2002,China,15081,East Asia
+1902,Japan,1783,East Asia
+1998,China,13482,East Asia
+2011,India,42435,South Asia
+1955,India,5055,South Asia
+1951,Germany,3625,Europe
+1946,United States,20064,North America
+1969,France,8671,Europe
+1952,Russia,5513,Europe
+1940,Japan,13976,East Asia
+1921,United Kingdom,9305,Europe
+1959,India,5533,South Asia
+1930,Germany,3952,Europe
+1944,China,4469,East Asia
+2005,Brazil,18288,Latin America
+1993,Brazil,15458,Latin America
+1974,France,9295,Europe
+1996,Egypt,12295,Middle East
+2011,Egypt,17274,Middle East
+1983,Brazil,21932,Latin America
+1937,United Kingdom,8279,Europe
+1908,France,3713,Europe
+1919,Russia,1786,Europe
+2004,Egypt,14864,Middle East
+2008,Mexico,19790,Latin America
+1970,China,7900,East Asia
+1922,Argentina,2197,Latin America
+1941,United States,18259,North America
+1905,United States,8628,North America
+1959,Argentina,6438,Latin America
+2010,United States,18365,North America
+1902,France,3426,Europe
+2016,India,47834,South Asia
+1923,Austria,1852,Europe
+2007,United States,18198,North America
+1911,Japan,3071,East Asia
+1943,Russia,4350,Europe
+1917,Japan,5673,East Asia
+1917,Russia,1794,Europe
+1913,Japan,3357,East Asia
+1912,Austria,1778,Europe
+1989,Brazil,24106,Latin America
+1978,France,8961,Europe
+1973,Brazil,16596,Latin America
+1982,Brazil,21578,Latin America
+1992,Egypt,10720,Middle East
+1974,China,7980,East Asia
+1931,United States,15142,North America
+1946,India,4254,South Asia
+2002,Egypt,14245,Middle East
+1934,Japan,11393,East Asia
+1995,Brazil,15913,Latin America
+1992,Argentina,10864,Latin America
+1958,United States,25702,North America
+2016,Bangladesh,18276,South Asia
+1968,China,7311,East Asia
+1975,United Kingdom,7730,Europe
+1957,China,6236,East Asia
+1958,France,7165,Europe
+1949,Japan,17850,East Asia
+1921,United States,12498,North America
+1987,Brazil,23371,Latin America
+1949,Germany,3719,Europe
+2008,Japan,55549,East Asia
+1978,Mexico,12337,Latin America
+1949,France,6224,Europe
+1933,Argentina,3270,Latin America
+1988,United States,26584,North America
+1919,United States,12036,North America
+1943,United Kingdom,8547,Europe
+1920,Russia,1783,Europe
+1976,France,9254,Europe
+1965,China,6428,East Asia
+1994,Egypt,11548,Middle East
+1910,Austria,1765,Europe
+1917,Argentina,1843,Latin America
+1927,Austria,1856,Europe
+2018,Mexico,21520,Latin America
+1924,Argentina,2339,Latin America
+1930,China,2281,East Asia
+1950,United Kingdom,8860,Europe
+1919,Austria,1825,Europe
+1952,Japan,19902,East Asia
+1906,Japan,2355,East Asia
+1938,Argentina,3808,Latin America
+1912,Argentina,1512,Latin America
+1915,France,4073,Europe
+1954,China,5758,East Asia
+2007,Japan,55161,East Asia
+1980,France,8669,Europe
+1956,India,5174,South Asia
+1930,France,5097,Europe
+1917,France,4218,Europe
+1914,France,4000,Europe
+1914,Argentina,1630,Latin America
+1990,China,11575,East Asia
+1957,India,5294,South Asia
+1948,India,4527,South Asia
+1915,Russia,1801,Europe
+1982,India,18747,South Asia
+1958,Mexico,5005,Latin America
+1964,China,6506,East Asia
+1962,India,5896,South Asia
+1911,United Kingdom,10229,Europe
+1945,France,5986,Europe
+1991,Argentina,10688,Latin America
+1942,Argentina,4238,Latin America
+1926,Germany,4001,Europe
+1978,Argentina,9151,Latin America
+2010,Brazil,19660,Latin America
+1971,China,7920,East Asia
+1913,Austria,1785,Europe
+2014,Brazil,20785,Latin America
+1996,Japan,52644,East Asia
+1904,France,3521,Europe
+1936,France,5453,Europe
+1963,United Kingdom,8000,Europe
+1995,United States,28282,North America
+1921,France,4509,Europe
+1984,Brazil,22284,Latin America
+1961,United States,27347,North America
+1932,Japan,10532,East Asia
+1962,Mexico,6075,Latin America
+1994,United States,28020,North America
+1977,United States,25660,North America
+1934,United States,16003,North America
+1953,India,4953,South Asia
+1988,Japan,49707,East Asia
+1967,Argentina,7840,Latin America
+1903,France,3474,Europe
+1968,Brazil,6770,Latin America
+1928,China,1969,East Asia
+1990,United States,26969,North America
+2017,Pakistan,17663,South Asia
+1914,Japan,3500,East Asia
+1967,Russia,6816,Europe
+1953,France,6591,Europe
+1972,United Kingdom,7771,Europe
+1935,France,5393,Europe
+1927,United States,15823,North America
+1977,Japan,43979,East Asia
+1980,United States,25113,North America
+1988,Mexico,15096,Latin America
+1938,United States,17176,North America
+1993,Mexico,16467,Latin America
+1912,France,3904,Europe
+2012,Pakistan,15096,South Asia
+1938,India,3163,South Asia
+2010,Japan,56326,East Asia
+1916,United Kingdom,9101,Europe
+1965,Japan,33349,East Asia
+1979,China,8953,East Asia
+1963,China,6585,East Asia
+1967,Mexico,7781,Latin America
+1970,Russia,7106,Europe
+1977,China,8477,East Asia
+1925,France,4800,Europe
+1909,Japan,2785,East Asia
+1958,China,6430,East Asia
+2004,Argentina,13145,Latin America
+1996,Brazil,16133,Latin America
+1953,Russia,5592,Europe
+1904,United States,8378,North America
+1960,Japan,27294,East Asia
+1966,India,6394,South Asia
+1978,Japan,44511,East Asia
+2006,Argentina,13513,Latin America
+1935,China,3062,East Asia
+1934,United Kingdom,8144,Europe
+1999,Brazil,16794,Latin America
+2000,United States,29611,North America
+1972,Argentina,8673,Latin America
+2017,China,47010,East Asia
+2015,China,44125,East Asia
+1903,Austria,1718,Europe
+1928,Argentina,2733,Latin America
+2016,Brazil,21277,Latin America
+1977,Brazil,19098,Latin America
+1999,Egypt,13293,Middle East
+1942,India,3709,South Asia
+1905,Russia,2802,Europe
+1931,Germany,3940,Europe
+2018,Brazil,21698,Latin America
+1987,Japan,49099,East Asia
+1907,France,3665,Europe
+1901,Russia,2608,Europe
+1991,Egypt,10306,Middle East
+1997,Mexico,17593,Latin America
+1991,India,23908,South Asia
+1998,India,42550,South Asia
+1976,Russia,7726,Europe
+2012,Egypt,17648,Middle East
+1904,Austria,1725,Europe
+1925,United Kingdom,7742,Europe
+1929,Argentina,2840,Latin America
+1933,India,2481,South Asia
+1945,Russia,4638,Europe
+1947,India,4391,South Asia
+1962,Russia,6351,Europe
+1977,India,8345,South Asia
+1966,Mexico,7375,Latin America
+2005,Japan,54384,East Asia
+1948,United Kingdom,8771,Europe
+1948,Russia,5069,Europe
+1981,Argentina,9529,Latin America
+1968,United Kingdom,7827,Europe
+1916,Germany,3593,Europe
+1905,United Kingdom,9647,Europe
+1967,Japan,35438,East Asia
+2009,Japan,55938,East Asia
+2000,Argentina,12407,Latin America
+1931,Argentina,3055,Latin America
+1904,Russia,2754,Europe
+1985,China,10384,East Asia
+1916,Russia,1798,Europe
+1944,Argentina,4453,Latin America
+2009,Bangladesh,14251,South Asia
+1908,Japan,2642,East Asia
+2012,United States,18456,North America
+1985,Mexico,14278,Latin America
+1901,Germany,2764,Europe
+1944,France,5927,Europe
+1960,India,5652,South Asia
+1901,France,3378,Europe
+1944,United States,19343,North America
+1991,China,11814,East Asia
+1910,United States,9879,North America
+1903,United States,8128,North America
+1954,Japan,21524,East Asia
+1951,United Kingdom,8744,Europe
+1980,Mexico,13028,Latin America
+1995,Egypt,11962,Middle East
+1932,China,2594,East Asia
+1907,Germany,3104,Europe
+1984,Argentina,9852,Latin America
+1966,China,6722,East Asia
+1920,Argentina,2055,Latin America
+1928,Japan,8810,East Asia
+1953,Japan,20714,East Asia
+1975,United States,26026,North America
+1933,Germany,3915,Europe
+2002,Japan,53620,East Asia
+1913,France,3952,Europe
+1921,Russia,1779,Europe
+1938,Russia,3632,Europe
+2015,Brazil,21066,Latin America
+1922,Russia,1775,Europe
+1979,United States,25296,North America
+2015,India,46746,South Asia
+2018,China,48453,East Asia
+1987,United States,26393,North America
+1975,Brazil,17914,Latin America
+1929,United States,14570,North America
+1962,United States,27815,North America
+1954,France,6693,Europe
+1901,Japan,1640,East Asia
+1956,United States,24526,North America
+1952,Mexico,3737,Latin America
+1977,Mexico,11991,Latin America
+1967,India,6527,South Asia
+1997,United States,28814,North America
+1942,United States,18621,North America
+1933,United Kingdom,8100,Europe
+1946,China,4781,East Asia
+1901,United Kingdom,9260,Europe
+1982,Japan,46501,East Asia
+1960,Argentina,6598,Latin America
+1984,India,19807,South Asia
+1937,Argentina,3700,Latin America
+1962,Argentina,6886,Latin America
+1965,Argentina,7317,Latin America
+1911,Argentina,1453,Latin America
+1975,Japan,42913,East Asia
+1989,Argentina,10402,Latin America
+1994,Mexico,16742,Latin America
+1916,Austria,1805,Europe
+1923,Argentina,2268,Latin America
+1997,Egypt,12628,Middle East
+1922,France,4582,Europe
+1974,Mexico,10840,Latin America
+1936,China,3219,East Asia
+1961,Russia,6260,Europe
+1976,China,8238,East Asia
+1925,Japan,7519,East Asia
+1999,Japan,52993,East Asia
+1948,France,6164,Europe
+1928,Russia,2195,Europe
+1996,China,13006,East Asia
+1967,United States,30954,North America
+1931,France,5156,Europe
+1939,Germany,3842,Europe
+1969,Argentina,8363,Latin America
+1929,Russia,2339,Europe
+1911,France,3856,Europe
+1972,Brazil,15938,Latin America
+2006,Brazil,18562,Latin America
+1972,China,7940,East Asia
+2000,Japan,53110,East Asia
+1917,United States,11574,North America
+1971,France,8980,Europe
+1958,Russia,6002,Europe
+1999,India,43854,South Asia
+1967,France,8263,Europe
+1959,China,6625,East Asia
+1941,China,4000,East Asia
+1990,Brazil,14776,Latin America
+1970,France,8875,Europe
+1937,Germany,3866,Europe
+2002,Mexico,18785,Latin America
+1919,France,4364,Europe
+1943,Argentina,4345,Latin America
+2006,United States,18143,North America
+1936,United Kingdom,8234,Europe
+1915,United Kingdom,9059,Europe
+1953,United Kingdom,8511,Europe
+1961,India,5774,South Asia
+1947,Russia,4925,Europe
+1963,Argentina,7029,Latin America
+1941,Japan,14406,East Asia
+2017,Brazil,21487,Latin America
+1954,United Kingdom,8394,Europe
+1941,India,3572,South Asia
+1964,France,7766,Europe
+1933,France,5275,Europe
+2003,Brazil,17778,Latin America
+1937,France,5512,Europe
+1926,Russia,1908,Europe
+1909,Germany,3217,Europe
+2006,Japan,54772,East Asia
+1952,France,6488,Europe
+1920,Germany,3780,Europe
+1942,China,4156,East Asia
+1947,France,6105,Europe
+1955,Argentina,5799,Latin America
+1998,United States,29079,North America
+1921,Argentina,2126,Latin America
+1951,United States,21994,North America
+1962,France,7589,Europe
+1926,Japan,7949,East Asia
+1951,India,4851,South Asia
+2014,Egypt,18397,Middle East
+1970,Argentina,8625,Latin America
+1932,Argentina,3163,Latin America
+1966,France,8059,Europe
+1911,United States,10129,North America
+1918,Argentina,1914,Latin America
+1907,Japan,2499,East Asia
+2012,China,39352,East Asia
+2016,Mexico,21173,Latin America
+1950,Germany,3707,Europe
+1908,United Kingdom,9938,Europe
+1965,Mexico,6969,Latin America
+1924,France,4727,Europe
+1974,United States,26013,North America
+1970,Brazil,7620,Latin America
+1979,Mexico,12682,Latin America
+1978,China,8715,East Asia
+1934,India,2618,South Asia
+1933,China,2750,East Asia
+1945,China,4625,East Asia
+2008,United States,18254,North America
+1965,United States,29224,North America
+1957,Mexico,4768,Latin America
+1981,India,18218,South Asia
+1956,China,6041,East Asia
+1959,France,7288,Europe
+1908,Austria,1751,Europe
+1962,Japan,29716,East Asia
+1957,Argentina,6119,Latin America
+2007,China,32214,East Asia
+1994,Brazil,15686,Latin America
+1941,Argentina,4130,Latin America
+2015,United States,18593,North America
+2009,Mexico,19961,Latin America
+1944,Russia,4494,Europe
+1986,India,20935,South Asia
+1981,Japan,46039,East Asia
+1922,United States,12729,North America
+1976,Japan,43446,East Asia
+1964,United States,28754,North America
+1913,Argentina,1571,Latin America
+1932,Russia,2770,Europe
+1954,Russia,5670,Europe
+1940,United Kingdom,8413,Europe
+1923,Japan,7058,East Asia
+1956,United Kingdom,8262,Europe
+1993,China,12290,East Asia
+1967,China,7017,East Asia
+1910,United Kingdom,10132,Europe
+1924,United Kingdom,7713,Europe
+2000,Egypt,13626,Middle East
+1956,Mexico,4531,Latin America
+1952,United Kingdom,8627,Europe
+1932,United States,15430,North America
+1936,Japan,12254,East Asia
+1937,United States,16864,North America
+1970,Japan,38570,East Asia
+1985,India,20337,South Asia
+1903,United Kingdom,9453,Europe
+1904,Japan,2069,East Asia
+1935,United Kingdom,8189,Europe
+1922,Germany,3873,Europe
+1909,France,3761,Europe
+1980,Brazil,20873,Latin America
+1939,Japan,13545,East Asia
+2012,India,43512,South Asia
+1982,France,8784,Europe
+1979,France,8815,Europe
+2009,Egypt,16554,Middle East
+1998,Brazil,16574,Latin America
+2000,India,45157,South Asia
+2016,United States,18633,North America
+1930,Argentina,2948,Latin America
+1941,Germany,3817,Europe
+1963,Japan,30927,East Asia
+2002,Argentina,12776,Latin America
+2005,Egypt,15174,Middle East
+1939,United States,17538,North America
+1935,India,2754,South Asia
+1909,United Kingdom,10035,Europe
+2009,Brazil,19386,Latin America
+1902,Germany,2820,Europe
+2018,Japan,58603,East Asia
+1938,Japan,13115,East Asia
+1960,France,7411,Europe
+1974,Japan,42045,East Asia
+1972,United States,33580,North America
+2013,Brazil,20504,Latin America
+1908,Germany,3160,Europe
+1942,United Kingdom,8502,Europe
+1937,India,3027,South Asia
+1997,Japan,52760,East Asia
+1973,Argentina,8697,Latin America
+1995,China,12767,East Asia
+1947,United Kingdom,8726,Europe
+2006,Egypt,15519,Middle East
+1969,Mexico,8594,Latin America
+1957,France,7042,Europe
+1975,France,9400,Europe
+2008,Argentina,13880,Latin America
+1986,Argentina,10070,Latin America
+1925,Argentina,2410,Latin America
+1949,Russia,5212,Europe
+1910,Germany,3273,Europe
+1939,Russia,3776,Europe
+1960,Russia,6170,Europe
+1985,Japan,47887,East Asia
+1943,France,5868,Europe
+1995,Mexico,17017,Latin America
+2013,Japan,57474,East Asia
+1952,China,5582,East Asia
+2005,Mexico,19276,Latin America
+2009,China,34852,East Asia
+1943,India,3845,South Asia
+1928,France,4978,Europe
+2013,Egypt,18023,Middle East
+1905,Japan,2212,East Asia
+1998,Mexico,17881,Latin America
+1959,Russia,6086,Europe
+1947,Japan,16989,East Asia
+1942,France,5808,Europe
+1924,Germany,3966,Europe
+1907,Austria,1745,Europe
+1963,France,7677,Europe
+1933,United States,15716,North America
+1995,India,38641,South Asia
+1938,France,5571,Europe
+2001,China,14520,East Asia
+1985,United States,26008,North America
+1972,France,9085,Europe
+1981,France,8726,Europe
+1949,India,4664,South Asia
+1926,Argentina,2518,Latin America
+1983,Japan,46963,East Asia
+1963,United States,28286,North America
+1909,Austria,1758,Europe
+1983,India,19278,South Asia
+1918,United Kingdom,9181,Europe
+1981,Brazil,21226,Latin America
+2016,Egypt,19131,Middle East
+1914,Germany,3500,Europe
+1966,United States,30089,North America
+1963,India,6017,South Asia
+1961,France,7500,Europe
+1916,Argentina,1772,Latin America
+1926,United States,15505,North America
+1997,Brazil,16353,Latin America
+1924,Japan,7288,East Asia
+1912,Russia,1707,Europe
+1973,Japan,41176,East Asia
+1953,Argentina,5519,Latin America
+1989,India,22728,South Asia
+1919,Argentina,1985,Latin America
+2013,Pakistan,15603,South Asia
+1961,Argentina,6742,Latin America
+1954,Argentina,5659,Latin America
+1969,Japan,37526,East Asia
+1968,Argentina,8102,Latin America
+1958,Japan,25311,East Asia
+1910,Japan,2928,East Asia
+1975,Argentina,8745,Latin America
+2015,Pakistan,16618,South Asia
+1940,India,3436,South Asia
+2016,Japan,58360,East Asia
+1999,China,13721,East Asia
+2017,Bangladesh,18954,South Asia
+1934,China,2906,East Asia
+1965,France,7855,Europe
+1955,Mexico,4294,Latin America
+1966,United Kingdom,7855,Europe
+1948,Germany,3731,Europe
+1970,Mexico,9000,Latin America
+1915,Japan,5211,East Asia
+1950,Russia,5356,Europe
+2002,India,47200,South Asia
+1968,Mexico,8188,Latin America
+1945,Germany,3768,Europe
+1909,United States,9629,North America
+1982,Argentina,9637,Latin America
+1966,Japan,34393,East Asia
+1948,Japan,17419,East Asia
+1976,Mexico,11646,Latin America
+1923,United States,12961,North America
+1935,Argentina,3485,Latin America
+1973,Mexico,10380,Latin America
+1982,China,9669,East Asia
+1902,Russia,2656,Europe
+1988,Brazil,23739,Latin America
+1904,Germany,2934,Europe
+1969,United Kingdom,7813,Europe
+1923,Germany,3920,Europe
+2014,India,45668,South Asia
+1926,United Kingdom,7787,Europe
+1924,Russia,1768,Europe
+1947,Argentina,4775,Latin America
+1997,China,13244,East Asia
+1944,Germany,3780,Europe
+2017,United States,18673,North America
+2018,Egypt,19850,Middle East
+1964,India,6139,South Asia
+1956,Japan,23327,East Asia
+1964,United Kingdom,7934,Europe
+1931,China,2437,East Asia
+1980,Japan,45577,East Asia
+2001,United States,29702,North America
+1906,Russia,2851,Europe
+1968,Russia,6912,Europe
+1915,Argentina,1701,Latin America
+1989,Mexico,15369,Latin America
+1960,Mexico,5479,Latin America
+1971,United Kingdom,7785,Europe
+1966,Russia,6719,Europe
+1996,United States,28548,North America
+1999,United States,29345,North America
+2001,Mexico,18621,Latin America
+1996,India,39944,South Asia
+1984,United States,25829,North America
+2007,Brazil,18837,Latin America
+1958,Argentina,6278,Latin America
+2003,Japan,53874,East Asia
+1916,United States,11342,North America
+2010,China,36170,East Asia
+1986,Mexico,14551,Latin America
+1985,Brazil,22637,Latin America
+1975,India,7888,South Asia
+1939,China,3687,East Asia
+1940,Argentina,4023,Latin America
+1990,Egypt,9892,Middle East
+1929,France,5037,Europe
+1903,Germany,2877,Europe
+1950,Argentina,5098,Latin America
+1925,Germany,4013,Europe
+2018,United States,18713,North America
+2014,Bangladesh,17025,South Asia
+1928,Germany,3976,Europe
+1960,United States,26877,North America
+2003,India,48220,South Asia
+1985,Argentina,9959,Latin America
+1931,United Kingdom,8010,Europe
+1926,France,4859,Europe
+2001,India,46179,South Asia
+1927,Japan,8380,East Asia
+1994,Japan,52206,East Asia
+1967,United Kingdom,7841,Europe
+2016,China,45567,East Asia
+1992,Japan,51562,East Asia
+1936,Argentina,3593,Latin America
+1992,United States,27494,North America
+1927,Argentina,2625,Latin America
+1996,Mexico,17305,Latin America
+1905,Austria,1731,Europe
+1950,France,6283,Europe
+1990,Argentina,10513,Latin America
+1980,China,9192,East Asia
+1929,India,1936,South Asia
+2012,Bangladesh,15878,South Asia
+1915,United States,11112,North America
+2018,Pakistan,18185,South Asia
+1939,India,3300,South Asia
+1959,United Kingdom,8212,Europe
+1924,Austria,1858,Europe
+1947,Germany,3744,Europe
+2014,Pakistan,16111,South Asia
+1927,United Kingdom,7831,Europe
+1971,Brazil,15279,Latin America
+1923,United Kingdom,9385,Europe
+1970,United Kingdom,7799,Europe
+1949,Argentina,4990,Latin America
+1980,India,17688,South Asia
+1914,Russia,1805,Europe
+1998,Egypt,12960,Middle East
+1973,United States,33595,North America
+1927,Germany,3989,Europe
+1991,Brazil,15003,Latin America
+1918,Japan,5904,East Asia
+1902,United States,7877,North America
+1954,Mexico,4108,Latin America
+1908,Russia,2947,Europe
+1951,France,6386,Europe
+1950,India,4800,South Asia
+1942,Japan,14836,East Asia
+2004,Mexico,19112,Latin America
+1944,India,3982,South Asia
+2005,United States,18087,North America
+1938,China,3531,East Asia
+1995,Japan,52527,East Asia
+1955,China,5846,East Asia
+1971,Argentina,8649,Latin America
+1917,Austria,1812,Europe
+1946,United Kingdom,8681,Europe
+1958,United Kingdom,8229,Europe
+1913,United Kingdom,10422,Europe
+1912,United States,10380,North America
+1995,Argentina,11390,Latin America
+2010,Mexico,20132,Latin America
+1940,France,5690,Europe
+1923,France,4655,Europe
+2010,Egypt,16899,Middle East
+2007,Egypt,15864,Middle East
+1922,Japan,6826,East Asia
+1930,United States,14857,North America
+1962,China,6663,East Asia
+1976,India,8116,South Asia
+1929,China,2125,East Asia
+1932,Germany,3927,Europe
+2003,Egypt,14555,Middle East
+1936,Germany,3878,Europe
+1933,Japan,10963,East Asia
+1951,Japan,19092,East Asia
+1987,China,10860,East Asia
+1978,United States,25479,North America
+2001,Brazil,17269,Latin America
+1953,United States,22967,North America
+1913,Russia,1756,Europe
+1991,Japan,51240,East Asia
+1938,Germany,3854,Europe
+2008,China,33532,East Asia
+1928,United Kingdom,7876,Europe
+1939,Argentina,3915,Latin America
+1926,Austria,1861,Europe
+1977,Argentina,9016,Latin America
+2015,Japan,58239,East Asia
+1975,China,8000,East Asia
+1974,Brazil,17255,Latin America
+1977,France,9108,Europe
+1923,Russia,1771,Europe
+1972,Japan,40307,East Asia
+2006,China,30894,East Asia
+1974,United Kingdom,7744,Europe
+1984,Mexico,14028,Latin America
+1934,Russia,3057,Europe
+1949,United Kingdom,8815,Europe
+1968,Japan,36481,East Asia
+1918,France,4291,Europe
+1965,Russia,6622,Europe
+1961,United Kingdom,8131,Europe
+1946,Germany,3756,Europe
+1941,United Kingdom,8458,Europe
+2013,Mexico,20652,Latin America
+1940,Germany,3829,Europe
+1993,Egypt,11134,Middle East
+1930,Japan,9671,East Asia
+1945,Japan,16128,East Asia
+1953,China,5670,East Asia
+1955,United Kingdom,8278,Europe
+2007,Argentina,13696,Latin America
+1909,Russia,2996,Europe
+1930,India,2072,South Asia
+1919,Japan,6134,East Asia
+1920,United States,12267,North America
+2018,Bangladesh,19633,South Asia
+1961,Japan,28505,East Asia
+2017,Japan,58482,East Asia
+1949,United States,21147,North America
+1952,United States,22479,North America
+1922,Austria,1845,Europe
+1907,United States,9129,North America
+1972,Mexico,9920,Latin America
+2011,Brazil,19941,Latin America
+1937,China,3375,East Asia
+1933,Russia,2913,Europe
+2003,Mexico,18948,Latin America
+1984,China,10145,East Asia
+1946,France,6046,Europe
+1988,Argentina,10291,Latin America
+1989,Japan,50313,East Asia
+1951,China,5494,East Asia
+1989,China,11337,East Asia
+2012,Mexico,20479,Latin America
+1978,Brazil,19689,Latin America
+1915,Austria,1798,Europe
+1966,Argentina,7579,Latin America
+1968,United States,31819,North America
+2011,China,37761,East Asia
+2004,United States,18032,North America
+1910,France,3809,Europe
+1992,Mexico,16192,Latin America
+1992,India,35288,South Asia
+1932,France,5215,Europe
+1939,France,5630,Europe
+1931,India,2208,South Asia
+2000,China,13959,East Asia
+1907,United Kingdom,9842,Europe
+1906,Germany,3047,Europe
+1959,Japan,26303,East Asia
+1941,France,5749,Europe
+2018,India,50010,South Asia
+1986,Japan,48493,East Asia
+1949,China,5250,East Asia
+1929,Germany,3964,Europe
+1983,Mexico,13778,Latin America
+1911,Austria,1771,Europe
+1930,Russia,2482,Europe
+1957,United States,25113,North America
+2014,China,42534,East Asia
+1969,Brazil,7195,Latin America
+1903,Russia,2705,Europe
+1952,Argentina,5378,Latin America
+1916,France,4145,Europe
+1937,Japan,12684,East Asia
+1987,India,21533,South Asia
+1994,India,37523,South Asia
+1913,Germany,3443,Europe
+1917,United Kingdom,9141,Europe
+1918,Austria,1818,Europe
+1931,Russia,2626,Europe
+1911,Germany,3330,Europe
+1971,United States,33565,North America
+1982,Mexico,13528,Latin America
+1965,India,6261,South Asia
+1975,Mexico,11300,Latin America
+1902,United Kingdom,9357,Europe
+1901,United States,7627,North America
+1917,Germany,3640,Europe
+1950,Japan,18280,East Asia
+1908,United States,9379,North America
+1945,United States,19703,North America
+2017,Egypt,19490,Middle East
+2015,Mexico,20999,Latin America
+1973,France,9190,Europe
+2017,Mexico,21347,Latin America
+1977,Russia,7828,Europe
+1989,United States,26777,North America
+1980,Argentina,9422,Latin America
+2011,United States,18411,North America
+1924,United States,14913,North America
+2016,Pakistan,17140,South Asia
+1988,India,22130,South Asia
+1986,United States,26200,North America
+1959,Mexico,5242,Latin America
+1987,Mexico,14824,Latin America
+1929,United Kingdom,7921,Europe
+1987,Argentina,10181,Latin America
+1963,Russia,6441,Europe
+2003,United States,29883,North America
+1925,United States,15187,North America
+1951,Russia,5435,Europe
+1930,United Kingdom,7966,Europe
+1910,Russia,3044,Europe
+2000,Brazil,17014,Latin America
+2001,Argentina,12592,Latin America
+1914,Austria,1792,Europe
+1919,Germany,3733,Europe
+1969,China,7606,East Asia
+1948,United States,20786,North America
+1999,Argentina,12204,Latin America
+1912,United Kingdom,10325,Europe
+1998,Argentina,12000,Latin America
+1922,United Kingdom,9345,Europe
+1974,Argentina,8721,Latin America
+1914,United States,10880,North America
+1990,Mexico,15642,Latin America
+1991,Mexico,15917,Latin America
+1918,Russia,1790,Europe
+1955,France,6796,Europe
+1994,China,12529,East Asia
+1943,United States,18981,North America
+1978,India,16601,South Asia
+1986,China,10622,East Asia
+2007,Mexico,19618,Latin America
+2011,Mexico,20305,Latin America
+1968,France,8467,Europe
+1942,Russia,4207,Europe
+2002,United States,29793,North America
+1999,Mexico,18169,Latin America
+2004,India,49241,South Asia
+1906,Austria,1738,Europe
+1979,India,17145,South Asia
+1986,Brazil,23004,Latin America
+1934,Germany,3903,Europe
+1952,India,4902,South Asia
+1971,Japan,39438,East Asia
+2000,Mexico,18457,Latin America
+1969,United States,32684,North America
+2010,India,55640,South Asia
+2005,Argentina,13330,Latin America
+2013,India,44591,South Asia
+2017,India,48922,South Asia
+1964,Japan,32138,East Asia
+1944,United Kingdom,8592,Europe
+1993,India,36405,South Asia
+2009,United States,18309,North America
+1918,United States,11805,North America
+2010,Bangladesh,14731,South Asia
+2013,United States,18502,North America
+2005,India,50263,South Asia
+1914,United Kingdom,10519,Europe
+1964,Argentina,7173,Latin America
+1947,China,4937,East Asia
+2014,United States,18547,North America
+1936,United States,16576,North America
+1973,United Kingdom,7758,Europe
+1915,Germany,3547,Europe
+1950,China,5406,East Asia
+1976,Argentina,8880,Latin America
+1973,China,7960,East Asia
+1943,Germany,3793,Europe
+1925,Austria,1865,Europe
+1927,France,4919,Europe
+1906,France,3617,Europe
+1962,United Kingdom,8065,Europe
+2008,India,53490,South Asia
+1935,Japan,11823,East Asia
+1961,China,6742,East Asia
+2007,India,52413,South Asia
+1919,United Kingdom,9223,Europe
+2013,Bangladesh,16451,South Asia
+2008,Brazil,19111,Latin America
+1941,Russia,4063,Europe
+1927,Russia,2051,Europe
+1960,United Kingdom,8196,Europe
+1976,United States,25843,North America
+1912,Japan,3214,East Asia
+1939,United Kingdom,8368,Europe
+1932,India,2345,South Asia
+1993,United States,27757,North America
+1959,United States,26289,North America
+1902,Austria,1711,Europe
+1963,Mexico,6373,Latin America
+1946,Russia,4781,Europe
+1921,Germany,3826,Europe
+1993,Argentina,11039,Latin America
+1955,Japan,22336,East Asia
+2001,Japan,53364,East Asia
+1992,Brazil,15231,Latin America
+2011,Bangladesh,15304,South Asia
+1954,India,5004,South Asia
+1920,Austria,1832,Europe
+1925,Russia,1764,Europe
+1907,Russia,2899,Europe
+2013,China,40943,East Asia
+2003,Argentina,12961,Latin America
+1936,India,2890,South Asia
+1983,Argentina,9744,Latin America
+2004,China,28485,East Asia
+1955,United States,23938,North America
+1946,Japan,16558,East Asia
+1938,United Kingdom,8323,Europe
+2012,Brazil,20222,Latin America
+1945,India,4118,South Asia
+1935,Russia,3201,Europe
+1943,Japan,15267,East Asia
+1945,Argentina,4560,Latin America
+1946,Argentina,4668,Latin America
+1948,Argentina,4883,Latin America
+1935,Germany,3891,Europe
+1903,Japan,1926,East Asia
+2014,Mexico,20826,Latin America
+1905,France,3569,Europe
+1981,United States,25292,North America
+1961,Mexico,5777,Latin America
+1996,Argentina,11593,Latin America
+2001,Egypt,13936,Middle East
+1974,India,7696,South Asia
+1906,United Kingdom,9744,Europe
+1993,Japan,51884,East Asia
