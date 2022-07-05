@@ -27,6 +27,7 @@ def poblacion_paises(nombre_archivo, region):
         pp.plot(x, y, label=pais_for)
 
     pp.legend()
+    pp.savefig(f'{region}.pdf')
     pp.show()
 
     return tot_paises

@@ -15,6 +15,7 @@ def altura(lista):
     pyplot.ylabel("Eje y")
     pyplot.plot(lista, y, 'g-o')
     pyplot.grid(color='gray', linestyle='--', linewidth=0.2)
+    pyplot.savefig('altura.pdf')
     pyplot.show()
 
     return max(y)
