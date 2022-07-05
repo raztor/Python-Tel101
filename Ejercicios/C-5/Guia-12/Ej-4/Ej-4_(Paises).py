@@ -1,5 +1,6 @@
 import matplotlib.pyplot as pp
 
+
 def poblacion_paises(nombre_archivo, region):
     total = {}
     tot_paises = []
@@ -11,7 +12,7 @@ def poblacion_paises(nombre_archivo, region):
         if zona == region:
             if pais not in total:
                 total[pais] = []
-                total[pais].append((ano, poblacion))
+            total[pais].append((ano, poblacion))
 
     archivo.close()
 
@@ -23,11 +24,10 @@ def poblacion_paises(nombre_archivo, region):
         for ano_algo, poblacion_total in total[pais_for]:
             x.append(ano_algo)
             y.append(poblacion_total)
-        pp.plot(x,y,label=pais_for)
+        pp.plot(x, y, label=pais_for)
 
     pp.legend()
     pp.show()
-
 
     return tot_paises
 
