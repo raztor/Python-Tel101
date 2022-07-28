@@ -1,0 +1,2 @@
+Pedro;Santiago;2,50
+Cristopher;Valparaiso;9000,40
