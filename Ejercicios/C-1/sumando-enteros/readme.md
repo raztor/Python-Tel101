@@ -11,3 +11,60 @@ Puede suponer que las entradas serán siempre números enteros. Preste especial 
 **Output Format**
 
 La suma de los números recibidos como entrada, dos veces, en líneas separadas. No escriba ningún texto adicional a los números.
+
+##### Processing
+
+-   [Testcase 0](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/#testcase1)
+-   [Testcase 1](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/#testcase2)
+
+Your code did not pass this test case.
+
+Input (stdin)
+
+```
+1
+1
+```
+
+Your Output (stdout)
+
+##### ~ no response on stdout ~
+
+Expected Output
+
+```
+2
+2
+```
+
+Compiler Message
+
+```
+Wrong Answer
+```
+
+Your code did not pass this test case.
+
+Input (stdin)
+
+```
+1
+-1
+```
+
+Your Output (stdout)
+
+##### ~ no response on stdout ~
+
+Expected Output
+
+```
+0
+0
+```
+
+Compiler Message
+
+```
+Wrong Answer
+```
