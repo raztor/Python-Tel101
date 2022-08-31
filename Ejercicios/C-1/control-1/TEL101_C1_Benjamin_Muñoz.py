@@ -1,5 +1,6 @@
 ##codigo por Raztorr
 ##************************CODIGO NO FINALIZADO***********************************
+##codigo por Raztorr
 qtyparticipantes=int(input('Ingrese la cantidad de participantes: '))
 numeroparticipante=0
 totallanza=0
@@ -12,12 +13,13 @@ while qtyparticipantes>numeroparticipante:
     numeroparticipante=numeroparticipante+1
     nombre=str(input('Ingrese el nombre del participante: '))
     promedio=0
-    intento=1
-    contdist = 0
+    intento=0
     while distancia>-1:
-        contdist=contdist+distancia
-        promedio = (contdist/intento)
+        if intento>=1:
+            promedio = ((float(promedio) + float(distancia)) / 2)
         distancia=float(input('Ingrese la distancia: '))
+        if intento==0:
+            promedio=distancia
         intento=intento+1
 
     print('El promedio de '+nombre+' es '+str(promedio))
