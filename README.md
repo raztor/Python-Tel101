@@ -1,5 +1,5 @@
 # Tel-101 (Iniciación a la programación)
-### Este repositorio contiene material de estudio para TEL-101 o IWI.
+### Este repositorio contiene material de estudio para TEL-101 o IWI-131.
 
 Esta separado en 5 Certamenes
 
