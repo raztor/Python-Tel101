@@ -1,8 +1,9 @@
 ##programa por Raztor
+##************CODIGO NO FINALIZADO*******************##
 gananciatot=0
 cantidaddeweas=0
 Tru=1
-while Tru==1:
+while Tru==1: #no me dejaron usar un while True
 
     inicio = str(input('Desea realizar una mezcla?: '))
     if inicio=='SI':
