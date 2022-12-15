@@ -14,3 +14,7 @@ contenidos:
 En un futuro el codigo estara comentado y con explicacionesde como hacer cada actividad.
 
 ###### Apuntes de Jupyter Notebook aportados por el Profesor Nicolás Torres
+
+# Archivado
+Repositorio archivado hasta nuevo aviso.
+En caso de conseguir el puesto de ayudante se le añadriran nuevos archivos y tareas
