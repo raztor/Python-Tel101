@@ -16,5 +16,5 @@ En un futuro el codigo estara comentado y con explicacionesde como hacer cada ac
 ###### Apuntes de Jupyter Notebook aportados por el Profesor Nicolás Torres
 
 # Archivado
-Repositorio archivado hasta nuevo aviso.
+Repositorio archivado hasta nuevo Inicio primer semestre 2023.
 En caso de conseguir el puesto de ayudante se le añadriran nuevos archivos y tareas
